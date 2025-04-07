@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("17-Using_Variable_Scope")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+811a63e274c2f2d813a549d57ee06a7808cf02ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccb7673e383cbda7f2ba5874b10807393533d595")]
 [assembly: System.Reflection.AssemblyProductAttribute("17-Using_Variable_Scope")]
 [assembly: System.Reflection.AssemblyTitleAttribute("17-Using_Variable_Scope")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
