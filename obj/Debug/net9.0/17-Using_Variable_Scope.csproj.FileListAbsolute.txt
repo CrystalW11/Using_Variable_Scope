@@ -1,0 +1,14 @@
+D:\coding_dojo\C Sharp\C#\CsharpProjects\17-Using_Variable_Scope\obj\Debug\net9.0\17-Using_Variable_Scope.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding_dojo\C Sharp\C#\CsharpProjects\17-Using_Variable_Scope\obj\Debug\net9.0\17-Using_Variable_Scope.AssemblyInfoInputs.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\17-Using_Variable_Scope\obj\Debug\net9.0\17-Using_Variable_Scope.AssemblyInfo.cs
+D:\coding_dojo\C Sharp\C#\CsharpProjects\17-Using_Variable_Scope\obj\Debug\net9.0\17-Using_Variable_Scope.csproj.CoreCompileInputs.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\17-Using_Variable_Scope\bin\Debug\net9.0\17-Using_Variable_Scope.exe
+D:\coding_dojo\C Sharp\C#\CsharpProjects\17-Using_Variable_Scope\bin\Debug\net9.0\17-Using_Variable_Scope.deps.json
+D:\coding_dojo\C Sharp\C#\CsharpProjects\17-Using_Variable_Scope\bin\Debug\net9.0\17-Using_Variable_Scope.runtimeconfig.json
+D:\coding_dojo\C Sharp\C#\CsharpProjects\17-Using_Variable_Scope\bin\Debug\net9.0\17-Using_Variable_Scope.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\17-Using_Variable_Scope\bin\Debug\net9.0\17-Using_Variable_Scope.pdb
+D:\coding_dojo\C Sharp\C#\CsharpProjects\17-Using_Variable_Scope\obj\Debug\net9.0\17-Using_Variable_Scope.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\17-Using_Variable_Scope\obj\Debug\net9.0\refint\17-Using_Variable_Scope.dll
+D:\coding_dojo\C Sharp\C#\CsharpProjects\17-Using_Variable_Scope\obj\Debug\net9.0\17-Using_Variable_Scope.pdb
+D:\coding_dojo\C Sharp\C#\CsharpProjects\17-Using_Variable_Scope\obj\Debug\net9.0\17-Using_Variable_Scope.genruntimeconfig.cache
+D:\coding_dojo\C Sharp\C#\CsharpProjects\17-Using_Variable_Scope\obj\Debug\net9.0\ref\17-Using_Variable_Scope.dll
